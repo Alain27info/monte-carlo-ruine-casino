@@ -10,7 +10,7 @@ Master Ingénierie Mathématique — Semestre 1
 [![NumPy](https://img.shields.io/badge/NumPy-Scientific-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square)](https://matplotlib.org/)
 
-**Auteurs :** AZIZ · MERKILED · ZIJING · GBADAMASSI
+**Auteurs :** AZIZ GBADAMASSI Alain· MERKILED Kemuel · Yu ZIJING 
 
 </div>
 
